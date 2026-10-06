@@ -28,11 +28,13 @@ Developed within the **Giravolt Crea Lab** innovation laboratory, a joint initia
 
 ## 🎬 Project Presentation & Media
 
-### Teaser Video
-[![Watch Teaser](https://img.youtube.com/vi/Ysv7c4oLHxw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ysv7c4oLHxw)
+### Teaser / Gameplay Video
+[![Watch Teaser Video](https://img.youtube.com/vi/Ysv7c4oLHxw/hqdefault.jpg)](https://www.youtube.com/watch?v=Ysv7c4oLHxw)  
+▶️️ **[Click here to watch the Teaser Trailer on YouTube](https://www.youtube.com/watch?v=Ysv7c4oLHxw)**
 
 ### Presentation Video
-[![Watch Presentation](https://img.youtube.com/vi/kIc6ndgAcUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kIc6ndgAcUE)
+[![Watch Presentation Video](https://img.youtube.com/vi/kIc6ndgAcUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kIc6ndgAcUE)  
+▶️ **[Click here to watch the full Presentation on YouTube](https://www.youtube.com/watch?v=kIc6ndgAcUE)**
 
 ---
 
