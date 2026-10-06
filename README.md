@@ -26,17 +26,18 @@ Developed within the **Giravolt Crea Lab** innovation laboratory, a joint initia
 
 ---
 
-## 🎬 Media & Sources
+## 🎬 Project Presentation & Media
 
-- **Project Presentation Video:**  
-  [Watch Presentation on YouTube](https://www.youtube.com/watch?v=kIc6ndgAcUE)
-  
-- **Teaser Video:**  
-  [Watch Teaser on YouTube](https://www.youtube.com/watch?v=Ysv7c4oLHxw)
+### Local Video Presentation
+<video src="resources/Màscares%20i%20Marquesos,%20Una%20història%20del%20Palau%20Moja.mp4" controls width="100%">
+  Your browser does not support the video tag. You can view the file at <code>resources/Màscares i Marquesos, Una història del Palau Moja.mp4</code>.
+</video>
 
-- **Local Repository Resources:**  
-  A local copy of the video presentation is available in this repository under:  
-  `resources/Màscares i Marquesos, Una història del Palau Moja.mp4`
+---
+
+### External Links & Sources
+- **Presentation Video (YouTube):** [Watch Presentation](https://www.youtube.com/watch?v=kIc6ndgAcUE)
+- **Teaser Video (YouTube):** [Watch Teaser](https://www.youtube.com/watch?v=Ysv7c4oLHxw)
 
 ---
 
