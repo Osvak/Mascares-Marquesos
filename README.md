@@ -28,13 +28,11 @@ Developed within the **Giravolt Crea Lab** innovation laboratory, a joint initia
 
 ## 🎬 Project Presentation & Media
 
-### Presentation Video
-[![Watch Presentation](https://img.youtube.com/vi/kIc6ndgAcUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kIc6ndgAcUE)
-
-> 💡 **Note:** To play the local video stored in the repository, download or open [`resources/Màscares i Marquesos, Una història del Palau Moja.mp4`](./resources/Màscares%20i%20Marquesos,%20Una%20història%20del%20Palau%20Moja.mp4).
-
 ### Teaser Video
 [![Watch Teaser](https://img.youtube.com/vi/Ysv7c4oLHxw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ysv7c4oLHxw)
+
+### Presentation Video
+[![Watch Presentation](https://img.youtube.com/vi/kIc6ndgAcUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=kIc6ndgAcUE)
 
 ---
 
